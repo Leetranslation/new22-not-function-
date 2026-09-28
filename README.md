@@ -119,3 +119,4 @@ git push -u origin main
 - **JavaScript 桥接**：`TabXBridge` 动作监听与事件分发注入
 - **数据持久化**：Room 数据库（本地安全存储账号信息、宏脚本与配置）
 - **后台挂机**：Kotlin 协程 + StateFlow 状态驱动架构
+  test build apk
